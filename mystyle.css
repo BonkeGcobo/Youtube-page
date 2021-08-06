@@ -1,0 +1,118 @@
+
+img {
+    width: 70px;
+    height: 30px;
+}
+#header{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+  /*  border-style: solid;*/
+}
+#Search_engine{
+    padding-top: 20px;
+    margin-bottom: 15px;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+}
+#youTube-log{
+    margin-left: 30px;
+    margin-top: 12px;
+}
+.user_icons img{
+    margin-right: 80px;
+    border-radius: 89%;
+    margin-top: 12px;
+}
+
+#body{
+    margin-top: 8px;
+    background-color: #F9F9F9;
+    display:flex;
+    /*justify-content: space-between;*/
+}
+.BigVideos{
+    padding-left: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 5px;
+    width: 70%;
+    
+}
+.BigVideos p{
+    color: b(141, 140, 140);
+    
+}
+.smallerVideos{
+    margin-top: 12px;
+    margin-left: 3px;
+    width: 40%;
+    
+}
+.descrip{
+    margin-top: 5px;
+    display: flex;
+}
+.youtube-icons{
+    margin-left: 20px;
+   /* border-style: solid;*/
+    margin-bottom: 25px;
+
+}
+.youtube-icons .dislike{
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+    margin-bottom:10px;
+}
+.youtube-icons .like{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+li{
+    display: flex;
+    margin-bottom: 15px;
+    margin-top: 2px;
+    /*height: 15px;*/
+}
+li iframe{
+    height: 100%;
+}
+li .small_Des{
+    margin-left: 5px;
+}
+.BigVideo-Des img{
+    border-radius: 89%;
+}
+.BigVideo-Des{
+    display: flex;
+    
+}
+.VideoText{
+    margin-left: 15px;
+    margin-top: 4px;
+}
+a{
+    text-decoration: none;
+    color: darkgrey;
+}
+.subBee{
+    margin-top: 25px;
+    background-color: #CC0000;
+    margin-left: 116px;
+    color: #FFFFFF;
+    border-style: none;
+    height: 40px;
+    width: 120px;
+}
+.BigVideos iframe{
+    width: 100%;
+    height: 95%;
+}
+
+/*.Search{
+    border-style: solid;
+}*/
